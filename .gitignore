@@ -1,6 +1,3 @@
-git init
-git add .
-git commit -m "Primul commit"
-git branch -M main
-git remote add origin https://github.com/Erhart81/contract-auto.git
-git push -u origin main
+node_modules/
+build/
+.env
